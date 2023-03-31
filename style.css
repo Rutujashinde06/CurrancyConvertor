@@ -1,0 +1,37 @@
+fieldset{
+	background-image:url("img.jpeg");
+	height:70%;
+	width:95%
+}
+h1{
+	color:black;
+	border:black;
+	border-style:solid;
+	text-align:center;
+	text-transform:uppercase;
+	
+	
+	
+}
+	
+table{
+          background-color:#AED6F1;		
+	      border-color:black;
+		  border-style:solid;
+		  height:20%;
+		  
+	}
+fieldset{
+		background-color:#566573;
+		
+	}
+
+div{
+   background-color:white;
+   	color:black;
+	border:black;
+	border-style:solid;
+   width:30%;
+   text-align:center;
+   
+}   
